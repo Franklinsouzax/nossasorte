@@ -57,3 +57,36 @@ nav a{
     padding: 2%;
     width: 50%;
 }
+
+/*inferior*/
+
+.caixa-2{
+    flex: 1;
+   border-left: 1px solid green;
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.caixa-2 a{
+
+    text-decoration: none;
+}
+.caixa-2 h2, h3{
+    padding: 0 0 0% 20% ;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    width: 80%;
+    text-align: center;
+
+}
+
+.caixa-2 h2{
+ font-size: 1.5vw;
+}
+
+.caixa-2 p {
+    font-size: 0.4vw;
+}
