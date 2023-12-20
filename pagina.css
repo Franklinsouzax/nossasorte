@@ -84,6 +84,10 @@ main {
 
 /**================CAIXA-ARTIGOS====================**/
 
+.caixa{
+   padding-top: 55%;
+
+}   
 .caixa-artigo {
     border-bottom: 2px solid ;
     display: flex; 
